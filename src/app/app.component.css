@@ -1,0 +1,33 @@
+.box{
+    width: 50%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #808080;
+    margin-top: 50px;
+
+}
+.header{
+    border-bottom: 1px solid gray;
+    width: 100%;
+    min-height: 50px;
+    background-color: beige;
+}
+.content{
+    float:left;
+    width: 50%;
+    margin:10px;
+ 
+    height: 100px;
+}
+.button{
+    float:right;
+    width: 40%;
+    margin:20px;
+   
+   
+}
+.all_bot li{
+    display: inline-block;
+    padding: 5px;
+}
